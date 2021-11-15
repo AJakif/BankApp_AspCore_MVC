@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Bank.Controllers
 {
-    [Area("Customer")]
+    [Area("Home")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
